@@ -1,0 +1,10 @@
+*.pyc
+*.db
+venv/
+logs/
+__init__.py
+__pycache__/
+downloads/
+.ipynb_checkpoints
+.DS_Store
+events
